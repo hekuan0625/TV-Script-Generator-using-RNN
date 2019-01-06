@@ -3,7 +3,8 @@
 
 Generate a new [Seinfeld](https://en.wikipedia.org/wiki/Seinfeld) TV scripts using RNN/LSTM models. 
 
-For example, given the single word input of "jerry", the model can generate a fake TV dialogue:
+For example, given the single word input of "jerry", the model can generate the following fake TV dialogue:
+
 jerry: you got the aids walk in there, i was gonna have to be the best.(george enters)
 
 jerry: what do you mean," what do you think?
